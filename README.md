@@ -32,7 +32,7 @@ Download and install Tesseract. See: https://github.com/tesseract-ocr/tesseract/
 Download and install IntelliJ IDEA on your system. See: https://www.jetbrains.com/idea/  
 
 DOWNLOAD:
-Download Audiology NLP project from our github link: https://github.com/ezhao7/AudiologyNLP.git 
+Download Audiology NLP project from our github link: https://github.com/yjgavin/AudiologyNLP
 
 BUILD:
 Copy the AudiologyNLP directory (downloaded in previous step) to any location you desire, start IntelliJ and choose import project option. Select AudiologyNLP and keep clicking next till the project is created in IntelliJ IDEA. 
