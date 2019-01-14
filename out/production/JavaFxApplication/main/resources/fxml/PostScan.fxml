@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.scene.text.Font?>
+<AnchorPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="main.java.com.controllers.PostScanController"
+            prefWidth="700" prefHeight="550">
+
+    <Label alignment="CENTER" layoutX="50.0" layoutY="100.0" prefHeight="36.0" prefWidth="150.0" text="Edit Document">
+        <font>
+            <Font size="18.0" />
+        </font>
+    </Label>
+
+    <Button layoutX="70.0" layoutY="420.0" mnemonicParsing="false" prefWidth="100.0" onAction="#processHome" text="Back"/>
+
+    <Separator layoutX="225.0" layoutY="75.0" orientation="VERTICAL" prefHeight="400.0" prefWidth="0.0" />
+
+
+</AnchorPane>

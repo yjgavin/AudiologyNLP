@@ -1,0 +1,48 @@
+ 
+
+ 
+
+Report_2016_001
+
+Patient Name: Jack Ma DOB: May 6th 2017
+Parents: Amy Ma DOE: 12/9/2015
+Referral Source: Dr.Peter Jones, MD
+
+History:
+
+Child Jack Ma, age 1, was seen in our office on December 9, 2015 for an Auditory Brainstem Response(ABR)evaluation, as requested.
+Child Jack is accompanied to the appointment by his mother and grandmother. his mother reports that he failed the newborn hearing
+screening in his left ear. She reports that Child Jack was born at 34 weeks at Hospital Name in Duluth, Georgia, but was
+transferred to the Emory Hospital due to breathing issues. Child spent two weeks in the NICU at Emory Hospital, and was on
+nystatin for a yeast infection during that time. They were unable to retest his left ear before being discharged. There is
+reportedly no family history of hearing loss on either side of the family. His mother reports that there were no complications
+with the Rregnaug prior to the early delivery.
+
+Test Results(see attached printouts for testing details):
+An ABR was completed and a Wave V was presented and reliable down to the following levels:
+
+RIGHT EAR LFET EAR
+Click: 30dBnHL Click: 40dBnHL
+SOOHZ: 40dBnHL SOOHZ: GOdBnHL
+
+4000Hz: 40dBnHL
+Bone Conduction click: 30dBnHL
+
+These results are within normal limits for the right ear. Results for the let ear suggest a mild conductive hearing loss.
+
+An acoustic impedance evaluation was completed using a 1000Hz probe tone and revealed normal middle ear pressure and mobility in
+the right ear, and a flat, Type B tympanggram in the left ear. Acoustic reflexes could not be obtained due to the inability to
+maintain an airtight seal.
+
+IMPRESSIONS AND RECOMMENDATIONS:
+
+Hearing is within normal limits for the right ear. There is a mild conductive hearing loss in the left ear. Middle ear function
+
+ear function is normal for the right ear and abnormal for the left ear. Ihere results were discussed with Child's mother, and it
+is recommended that they follow up with DR.Last name for further medical follow up. It is also recommended that he return to our
+office after medical management for a repeat ABR. We will also complete otoacoustic Emission(0AE) testing at that time, as well.
+
+Thank you so much for the referral! If you have any questions or concerns, please contact me at Phone Number.
+
+ 
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.scene.text.Font?>
+<AnchorPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="main.java.com.controllers.NewDocController">
+
+        <children>
+            <Separator layoutX="150.0" layoutY="37.0" orientation="VERTICAL" prefHeight="327.0" prefWidth="0.0" />
+            <Button layoutX="39.0" layoutY="324.0" mnemonicParsing="false" onAction="#processHome" prefHeight="22.0" prefWidth="74.0" text="Home" />
+            <Label layoutX="194.0" layoutY="143.0" prefHeight="24.0" prefWidth="169.0" text="Select New Document">
+                <font>
+                    <Font size="14.0"/>
+                </font>
+            </Label>
+            <Label layoutX="113.0" layoutY="80.0" prefHeight="24.0" prefWidth="213.0" />
+            <TextField fx:id="textField" layoutX="194.0" layoutY="185.0" prefHeight="31.0" prefWidth="213.0" />
+            <Button onAction="#processLoadFile" layoutX="440.0" layoutY="185.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="85.0" text="Browse" />
+            <!--<Button layoutX="441.0" layoutY="324.0" mnemonicParsing="false" onAction="#processNewView" prefHeight="24.0" prefWidth="55.0" text="Scan" />-->
+        </children>
+
+</AnchorPane>
